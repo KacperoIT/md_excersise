@@ -27,9 +27,9 @@
 - Gry komputerowe
 
 ## Ulubione marki motocykli
-* Suzuki
-* Honda
-* Yamaha
+1. Suzuki
+2. Honda
+3. Yamaha
 
 ## Ulubione gry komputerowe
 1. Wiedźmin 3: Dziki Gon
