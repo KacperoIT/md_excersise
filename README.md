@@ -42,5 +42,6 @@
 ```
 Poniżej znajduje się logo WSEI:
 ```
-! [Logo WSEI] (https://www.wsei.lublin.pl/wp-content/uploads/2020/01/WSEI-Lublin-logo-g20.png)
+![Logo WSEI](https://www.wsei.lublin.pl/wp-content/uploads/2020/01/WSEI-Lublin-logo-g20.png)
+
 
