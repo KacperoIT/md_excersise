@@ -21,10 +21,10 @@
 * Miejsce zatrudnienia: Warszawa
 
 ## Zainteresowania
-* Informatyka
-* Nowoczesna technologia
-* Motoryzacja
-* Gry komputerowe
+- Informatyka
+- Nowoczesna technologia
+- Motoryzacja
+- Gry komputerowe
 
 ## Ulubione marki motocykli
 * Suzuki
@@ -32,9 +32,9 @@
 * Yamaha
 
 ## Ulubione gry komputerowe
-* Wiedźmin 3: Dziki Gon
-* Counter-Strike: Global Offensive
-* Grand Theft Auto V
+1. Wiedźmin 3: Dziki Gon
+2. Counter-Strike: Global Offensive
+3. Grand Theft Auto V
 
 
 
